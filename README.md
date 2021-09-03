@@ -1,4 +1,4 @@
-# webt1320
+# WEBT1320
 
 <h1>Basic Web Projects</h1>
 
