@@ -1,6 +1,7 @@
 /* Global Styles */
 body {
     background-color:#8b0000;
+    font-family: 'Fira Sans', sans-ser;
 }
 
 img {
@@ -77,6 +78,7 @@ section, aside {
     width: 84%;
     color:#ffa500;
     text-shadow: 1px 1px 1px #000;
+    font-family: 'Fira Sans', sans-ser;
 }
 
 section img, aside img {
@@ -108,11 +110,13 @@ footer {
     color:#ff5400;
     font-size: 1.5em;   
     text-shadow: 1px 1px 1px #000;
+    font-family: 'Fira Sans', sans-ser;
 }
 
 .col {
     color:#ffa500;
     text-shadow: 1px 1px 1px #000;
+    font-family: 'Fira Sans', sans-ser;
 }
 
 .col img {
@@ -121,6 +125,7 @@ footer {
 
 .single_col {
     width: 84.2%;
+    font-family: 'Fira Sans', sans-ser;
 }
 
 .single_col img {
@@ -182,6 +187,7 @@ table {
         width: 84%;
         color:#ffa500;
         text-shadow: 1px 1px 1px #000;
+        font-family: 'Fira Sans', sans-ser;
     }
 
 
@@ -194,6 +200,7 @@ table {
 
     .single_col {
         width: 100%;
+        font-family: 'Fira Sans', sans-ser;
     }
 
     .single_col img {
@@ -230,6 +237,7 @@ table {
         color:#ffa500;
         text-shadow: 1px 1px 1px #000;
         border: 4px solid #f5deb3;
+        font-family: 'Fira Sans', sans-ser;
     }
 
     .col img {
